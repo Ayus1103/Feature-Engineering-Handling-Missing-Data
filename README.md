@@ -63,7 +63,7 @@ To run this notebook on your local machine:
 
 3. **Open the notebook:**
    ```bash
-   jupyter notebook Feature_Engineering_1.ipynb
+   jupyter notebook Feature_Engineering_Handling_Missing_Values.ipynb
    ```
 
 ---
